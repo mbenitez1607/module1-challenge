@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was initiated from the provided [starter code](https://github.com/coding-boot-camp/urban-octo-telegram). It is supposed to be the codebase from a Marketing Agency that wants us to ensure the code follows the accessibility standards.
+This project was initiated from the provided [starter code](https://github.com/coding-boot-camp/urban-octo-telegram). It is supposed to be the codebase from a Marketing Agency called Horiseon that wants us to ensure the code follows the accessibility standards.
 
 The main tasks to complete the project ensured that:
 - HTML uses the proper semantic elements
@@ -12,11 +12,11 @@ The main tasks to complete the project ensured that:
 
 ## Installation
 
-N/A
+The project has already been deployed. Visit: [Horiseon's website](https://mbenitez1607.github.io/module1-challenge/)
 
 ## Usage
-
-The user may read the page sequentially top to bottom, or may access the three main sections through the links on the top right menu of the page.
+ 
+ The user may read the page sequentially, top to bottom, or may access the three main sections through the links on the top right menu of the page.
 
 <img
   src="./assets/images/01-html-css-git-homework-demo.png"
